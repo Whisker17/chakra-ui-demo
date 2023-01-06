@@ -17,18 +17,13 @@ const PiePaper: FC = () => {
         options={{
           responsive: true,
           maintainAspectRatio: false,
-          elements: {
-            point: {
-              radius: 0,
-            },
-          },
           hover: {
             mode: "nearest",
             intersect: true,
           },
           plugins: {
             tooltip: {
-              mode: "index",
+              mode: "nearest",
               intersect: false,
             },
             filler: {
