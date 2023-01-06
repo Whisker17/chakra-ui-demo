@@ -1,0 +1,8 @@
+import Head from "next/head";
+import Image from "next/image";
+import { Inter } from "@next/font/google";
+import PiePaper from "./Pie";
+
+export default function Home() {
+  return <PiePaper></PiePaper>;
+}
