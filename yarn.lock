@@ -1503,6 +1503,16 @@ chart.js@^4.1.2:
   dependencies:
     "@kurkle/color" "^0.3.0"
 
+chartjs-plugin-autocolors@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/chartjs-plugin-autocolors/-/chartjs-plugin-autocolors-0.2.1.tgz#860f7d6dc5ecd37bcfe55c31bfd1604cd363e791"
+  integrity sha512-xEMmCaFefyqanstu4DBq9OA0BMvYDIUeHroqiGAT9owjekRFdqAp5nSTwjsjCSERFfMEQRnD+VPkaQ2ZgfxexQ==
+
+chartjs-plugin-datalabels@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/chartjs-plugin-datalabels/-/chartjs-plugin-datalabels-2.2.0.tgz#369578e131d743c2e34b5fbe2d3f9335f6639b8f"
+  integrity sha512-14ZU30lH7n89oq+A4bWaJPnAG8a7ZTk7dKf48YAzMvJjQtjrgg5Dpk9f+LbjCF6bpx3RAGTeL13IXpKQYyRvlw==
+
 client-only@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/client-only/-/client-only-0.0.1.tgz#38bba5d403c41ab150bff64a95c85013cf73bca1"
